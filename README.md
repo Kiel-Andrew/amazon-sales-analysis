@@ -24,9 +24,8 @@ The raw dataset required extensive cleaning before analysis could begin. Key tra
 ## 📊 The Dashboard
 <img width="1005" height="474" alt="image" src="https://github.com/user-attachments/assets/1f92b547-e140-4ff0-8cd5-47673a497de1" />
 <img width="1006" height="475" alt="image" src="https://github.com/user-attachments/assets/fa744a87-2a13-4d80-a208-43a9b8bfc130" />
-<img width="1006" height="474" alt="image" src="https://github.com/user-attachments/assets/386176bf-768e-4652-9642-d47477cf8d31" />
 <img width="1006" height="474" alt="image" src="https://github.com/user-attachments/assets/aebf1811-370f-424a-8d6d-b6dad09e958a" />
-
+<img width="1006" height="474" alt="image" src="https://github.com/user-attachments/assets/386176bf-768e-4652-9642-d47477cf8d31" />
 
 ## 💡 Key Business Findings
 
